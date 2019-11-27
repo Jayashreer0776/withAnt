@@ -23,7 +23,7 @@ public class HelloWorld {
      * @return HelloWorld string representation.
      */
     @Override
-    public String1 toString() {
+    public String toString() {
         return greetings;
     }
 }
