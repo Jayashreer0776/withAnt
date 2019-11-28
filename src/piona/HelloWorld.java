@@ -14,7 +14,7 @@ public class HelloWorld {
      * HelloWorld constructor.
      */
     public HelloWorld() {
-        greetings = "Hello!";
+        greetings = "Hello! Welcome to Jenkins!!!";
     }
 
     /**
