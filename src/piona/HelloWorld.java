@@ -24,7 +24,7 @@ public class HelloWorld {
      */
     @Override
     public String toString() {
-        return greetings1;
+        return greetings;
     }
 }
 
