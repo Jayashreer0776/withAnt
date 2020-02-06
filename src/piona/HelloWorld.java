@@ -13,7 +13,7 @@ public class HelloWorld {
     /**
      * HelloWorld constructor.
      */
-    public HelloWorld() {
+    public HelloWorld1() {
         greetings= "Hello! Welcome All!! ";
     }
 
